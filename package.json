@@ -1,0 +1,24 @@
+{
+  "name": "context-manager",
+  "version": "0.0.1",
+  "description": "Python Style ContextManager for Javascript",
+  "main": "context-manager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjtaill/context-manager.git"
+  },
+  "keywords": [
+    "python",
+    "ContextManager",
+    "javascript"
+  ],
+  "author": "Troy Taillefer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjtaill/context-manager/issues"
+  },
+  "homepage": "https://github.com/tjtaill/context-manager#readme"
+}
